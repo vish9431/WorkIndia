@@ -247,6 +247,8 @@ Expected Response:
     "new_total_seats": 120
 }
 
+
+
 1. User Registeration :-
 <img width="999" alt="Screenshot 2025-02-17 at 10 59 30 PM" src="https://github.com/user-attachments/assets/e39f5720-ae15-4052-80c6-61d80e6ff66c" />
 
